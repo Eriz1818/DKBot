@@ -3,7 +3,7 @@ import random
 import time
 
 game = DraganKnight.DraganKnight()
-game.login("eriz18", "testtest")
+game.login("username", "password")
 
 # Bot Game Loop
 while True:
